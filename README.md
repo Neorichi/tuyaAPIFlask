@@ -38,7 +38,7 @@ To switch on/off
 <pre> python3 main.py </pre>
 
 ## Results
-![](https://raw.githubusercontent.com/Neorichi/tuyaAPIFlask/main/images/3.png)
+![](https://raw.githubusercontent.com/Neorichi/tuyaAPIFlask/main/images/3.gif)
 
 License
 ----
