@@ -3,7 +3,6 @@ from flask import Flask, render_template,Response
 import time
 import datetime
 import json
-import pprint
 
 
 app = Flask(__name__)
@@ -29,7 +28,6 @@ def switchTurn(token,switchId,status):
         "%s/skill" % URL_TUYA_API,
         json={"header": {"name": "turnOnOff", "namespace": "control", "payloadVersion": 1}, "payload": {"accessToken": token, "devId": switchId, "value":"%d" % status}}
     ).json()
-    pprint.pprint(r)
 
 def statusSwitch(token,id):
     devices = requests.post(
