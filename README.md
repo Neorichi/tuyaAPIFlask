@@ -20,10 +20,10 @@ data={
       "from": "tuya",
 }
 ```
-5. Get you ID device
-5.1 Edit you device
-5.2 Device information
-5.3 Copy ID Virtual and paste into switchId value
+5. Get you ID device<br>
+5.1 Edit you device<br>
+5.2 Device information<br>
+5.3 Copy ID Virtual and paste into switchId value<br>
 ![](https://raw.githubusercontent.com/Neorichi/tuyaAPIFlask/main/images/2.png)
 
 ```python
