@@ -1,6 +1,6 @@
 # TuyaAPIFlask
 
-Using the TuyaSmart url request to create a API with Flask and Python3 to turn on/off you own switch
+Using the TuyaSmart url request to create an API with Flask and Python3 to turn on/off you own switch
 
 
 ## Steps
